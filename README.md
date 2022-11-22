@@ -16,7 +16,7 @@ Analysis was done with the following resources:
 ## Results
 In order to begin the analysis, I merged the two csv files I got from Pyber (city_data.csv and ride_data.csv) into a combined DataFrame (pyber_data_df).  I then performed some analysis on this DataFrame to produce a summary DataFrame.
 
-(image of summary dataframe here) 
+![Summary_DataFrame](https://user-images.githubusercontent.com/115426070/203418487-62ccf17c-9085-4225-92f5-5e3f2033d7c9.png)
 
 It is clear that the urban cities have a much higher volume of total rides and total drivers than the other two city types.  
 
