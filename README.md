@@ -14,25 +14,25 @@ Analysis was done with the following resources:
     * Jupyter Notebook 6.4.12
 
 ## Results
-In order to begin the analysis, I merged the two csv files I got from Pyber (city_data.csv and ride_data.csv) into a combined DataFrame (pyber_data_df).  I then performed some analysis on this DataFrame to produce a summary DataFrame.
+* In order to begin the analysis, I merged the two csv files I got from Pyber (city_data.csv and ride_data.csv) into a combined DataFrame (pyber_data_df).  I then performed some analysis on this DataFrame to produce a summary DataFrame.
 
 
 ![Summary_DataFrame](https://user-images.githubusercontent.com/115426070/203418487-62ccf17c-9085-4225-92f5-5e3f2033d7c9.png)
 
 
-It is clear that the urban cities have a much higher volume of total rides and total drivers than the other two city types.  
+* It is clear that the urban cities have a much higher volume of total rides and total drivers than the other two city types.  
 
 
 ![Fig1 ](https://user-images.githubusercontent.com/115426070/203422454-1b65ec06-d2d2-4b3e-a4f6-3bc4ebb70e3b.png)
 
 
-The average fare per driver and average fare per rider were higher for the suburban and rural cities, with the highest averages belonging to the rural cities.  
+* The average fare per driver and average fare per rider were higher for the suburban and rural cities, with the highest averages belonging to the rural cities.  
 
 
 ![Fig4](https://user-images.githubusercontent.com/115426070/203422484-e0b1d503-c938-4e12-8ca9-c297e1aa3ce8.png)
 
 
-Total fares are greatest in the urban cities and least in the rural cities.
+* Total fares are greatest in the urban cities and least in the rural cities.
 
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/115426070/203422529-d7f24f4d-ff92-4f3b-94cb-7ab98d0b5de3.png)
